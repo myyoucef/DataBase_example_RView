@@ -1,1 +1,1 @@
-# DataBase_example_RView
+# DataBase example managed by RecyclerView
